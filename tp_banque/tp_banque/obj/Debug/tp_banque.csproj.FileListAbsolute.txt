@@ -1,0 +1,6 @@
+D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\bin\Debug\tp_banque.exe.config
+D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\bin\Debug\tp_banque.exe
+D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\bin\Debug\tp_banque.pdb
+D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\obj\Debug\tp_banque.csprojResolveAssemblyReference.cache
+D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\obj\Debug\tp_banque.exe
+D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\obj\Debug\tp_banque.pdb
