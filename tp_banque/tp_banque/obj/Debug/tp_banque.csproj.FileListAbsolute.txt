@@ -4,3 +4,9 @@ D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\bin\Debug\tp_banque.pdb
 D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\obj\Debug\tp_banque.csprojResolveAssemblyReference.cache
 D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\obj\Debug\tp_banque.exe
 D:\OFPPT\Salma Zernouni\tp_banque\tp_banque\obj\Debug\tp_banque.pdb
+C:\Users\Salma Zerno\Desktop\Emsi s2\Poo\Atelier\tp_banque\tp_banque\bin\Debug\tp_banque.exe.config
+C:\Users\Salma Zerno\Desktop\Emsi s2\Poo\Atelier\tp_banque\tp_banque\obj\Debug\tp_banque.exe
+C:\Users\Salma Zerno\Desktop\Emsi s2\Poo\Atelier\tp_banque\tp_banque\obj\Debug\tp_banque.pdb
+C:\Users\Salma Zerno\Desktop\Emsi s2\Poo\Atelier\tp_banque\tp_banque\bin\Debug\tp_banque.exe
+C:\Users\Salma Zerno\Desktop\Emsi s2\Poo\Atelier\tp_banque\tp_banque\bin\Debug\tp_banque.pdb
+C:\Users\Salma Zerno\Desktop\Emsi s2\Poo\Atelier\tp_banque\tp_banque\obj\Debug\tp_banque.csprojResolveAssemblyReference.cache

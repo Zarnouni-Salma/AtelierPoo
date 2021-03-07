@@ -16,6 +16,8 @@ namespace tp_banque
           
             Compte c1 = new Compte("zarnouni","salma","casablanca hm imm 16 n 14",100.00);
             c1.afficher();
+            c1.ajouterSolde(50);
+            c1.afficher();
 
             Console.WriteLine("---------"); 
 

@@ -41,6 +41,10 @@ namespace tp_banque
             {
                 this.solde += s;
             }
+            else
+            {
+                Console.WriteLine("veuillez entrer une valeur positif s'il vous plait !!");
+            }
         }
         public void retirerSolde(double s)
         {
