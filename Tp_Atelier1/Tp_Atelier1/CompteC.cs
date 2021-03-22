@@ -17,15 +17,25 @@ namespace Tp_Atelier1
             l = new List<Operation>();
 
         }
+      
         public void Afficher()
         {
-            int i = 1;
+          
+        }
 
-            foreach (var o in l)
+        public override bool debiter(Mad somme)
+        {
+
+            if (solde - somme >= découvert)
             {
-                Console.WriteLine("l operation n " + i + " est " + o);
-                
+                return base.debiter(somme);
             }
+            else
+            {
+                Console.WriteLine("veuillez respecter svp le decouvert");
+                return false;
+            }
+
         }
      
      

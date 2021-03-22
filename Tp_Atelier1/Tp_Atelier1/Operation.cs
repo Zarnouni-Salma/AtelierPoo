@@ -10,6 +10,7 @@ namespace Tp_Atelier1
     {
         private int numero;
         private DateTime date;
+        private static int cmp;
         private Mad Montant;
         private string libelle;
      public Operation()
@@ -17,9 +18,10 @@ namespace Tp_Atelier1
             this.numero = 0;
          
         }
-        public Operation(int numero,Mad m,string libelle)
+        public Operation(Mad m,string libelle)
      {
-         this.numero = numero;
+       cmp++;
+       this.numero = cmp;
          this.date = DateTime.Now;
          this.Montant = m;
          this.libelle = libelle;

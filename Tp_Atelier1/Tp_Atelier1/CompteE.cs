@@ -21,7 +21,7 @@ namespace Tp_Atelier1
         }
         public void calculIntéret()
         {
-            Mad m = new Mad(TauxInteret);
+            Mad m = new Mad(TauxInteret/100);
             solde += solde * m;
             
         }

@@ -10,4 +10,5 @@ C:\Users\Salma Zerno\Desktop\tp_poo\Tp_Atelier1\Tp_Atelier1\obj\Debug\Tp_Atelier
 C:\Users\Salma Zerno\Desktop\tp_poo\Tp_Atelier1\Tp_Atelier1\obj\Debug\Tp_Atelier1.pdb
 C:\Users\Salma Zerno\Desktop\tp_poo\Tp_Atelier1\Tp_Atelier1\bin\Debug\Tp_Atelier1.exe
 C:\Users\Salma Zerno\Desktop\tp_poo\Tp_Atelier1\Tp_Atelier1\bin\Debug\Tp_Atelier1.pdb
-C:\Users\Salma Zerno\Desktop\tp_poo\Tp_Atelier1\Tp_Atelier1\obj\Debug\Tp_Atelier1.csprojResolveAssemblyReference.cache
+C:\Users\Salma Zerno\Desktop\tp_poo\Tp_Atelier1\Tp_Atelier1\obj\Debug\Tp_Atelier1.csprojAssemblyReference.cache
+C:\Users\Salma Zerno\Desktop\tp_poo\Tp_Atelier1\Tp_Atelier1\obj\Debug\Tp_Atelier1.csproj.CoreCompileInputs.cache
